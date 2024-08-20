@@ -14,9 +14,9 @@ This repository contains the completed projects for my Master's degree. Below is
 
 ---
 
-## TD/TP3: Static and Dynamic Integrity Constraints
+## TD/TP3: Static and Dynamic Integrity Constraints (SQL, PLSQL)
 **Description:** Handling static and dynamic integrity constraints.  
-**Technologies:** SQL, DBMS.  
+**Technologies:** SQL, PLSQL, DBMS.  
 
 ---
 
